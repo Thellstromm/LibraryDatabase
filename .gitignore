@@ -1,0 +1,15 @@
+# Visual Studio / SSMS temporary files
+.vs/
+*.user
+*.suo
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# Operating system files
+Thumbs.db
+.DS_Store
