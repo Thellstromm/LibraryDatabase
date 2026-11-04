@@ -36,8 +36,6 @@ The ER diagram is available in the `docs` folder:
 - `Library-ER-Diagram.drawio` — editable draw.io file
 - `Library-ER-Diagram.png` — image version of the diagram
 
-![Library ER Diagram](docs/Library-ER-Diagram.png)
-
 ## How to Run
 
 Run the SQL files in the following order:
